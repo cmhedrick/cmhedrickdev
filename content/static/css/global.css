@@ -1,0 +1,40 @@
+h1.blog-name a {
+    color: #ffffff !important;
+    text-decoration: none;
+    font-weight: inherit;
+    color: inherit;
+}
+span.blog-description {
+    color: #ffffff !important;
+}
+.post-author-name {
+    color: #ffffff !important;
+}
+p.post-author-about {
+    margin: 1.666em 0 0 0;
+    color: #000000 !important;
+}
+span.post-author-location {
+    color: #000000 !important;
+    opacity: 1;
+}
+span.post-author-website {
+    color: #000000 !important;
+    opacity: 1;
+}
+span.post-author-github {
+    color: #000000 !important;
+    opacity: 1;
+}
+span.post-author-linkedin {
+    color: #000000 !important;
+    opacity: 1;
+}
+span.post-author-stats {
+    color: #000000 !important;
+    opacity: 1;
+}
+span.post-author-stats {
+    color: #000000 !important;
+    opacity: 1;
+}
